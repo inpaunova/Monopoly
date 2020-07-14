@@ -1,2 +1,2 @@
 # Monopoly
-Clean Code project - Monopoly
+Clean Code project - Monopoly will became better and better
